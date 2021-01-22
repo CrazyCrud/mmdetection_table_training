@@ -1,0 +1,26 @@
+<annotation>
+	<folder>observationes_meteorologicae</folder>
+	<filename>ubr18275_0028.jpg</filename>
+	<path>C:\Program Files (x86)\Labelimg\data\observationes_meteorologicae\ubr18275_0028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3263</width>
+		<height>2883</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bordered</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>244</xmin>
+			<ymin>529</ymin>
+			<xmax>3212</xmax>
+			<ymax>2729</ymax>
+		</bndbox>
+	</object>
+</annotation>
